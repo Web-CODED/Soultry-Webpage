@@ -1,6 +1,4 @@
 
-  
-  <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Soultry - IT agency website</h2>
 
