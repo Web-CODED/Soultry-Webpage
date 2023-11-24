@@ -1,23 +1,10 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/solutry)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/solutry?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/solutry?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/e-XVD_8zA20?style=social)](https://youtu.be/e-XVD_8zA20)
 
-  <br />
-  <br />
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Solutry - IT agency website</h2>
+  <h2 align="center">Soultry - IT agency website</h2>
 
-  Solutry is fully responsive IT agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/solutry/"><strong>➥ Live Demo</strong></a>
-
-</div>
+  Soultry is fully responsive IT agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <br />
 
@@ -38,18 +25,15 @@ To run **Solutry** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/solutry.git
+sudo git clone https://github.com/Web-CODED/Soultry-Webpage.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/solutry.git
+git clone https://github.com/Web-CODED/Soultry-Webpage.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
